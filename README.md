@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Where you can find me?    
                               
 [![linkedin-shield](https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bruno-bonatti-2793a2244) [![github-shield](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github)](https://github.com/BrunoBonatti) [![sap-shield](https://img.shields.io/badge/SAP-555?style=for-the-badge&logo=sap&logoColor=white)](https://people.sap.com/bruno.bonatti) [![sap-shield](https://img.shields.io/badge/Credly-555?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bruno-bonatti/badges)
+</div>
 
 ![Snake animation](https://github.com/BrunoBonatti/blob/output/github-contribution-grid-snake.svg) 
 
